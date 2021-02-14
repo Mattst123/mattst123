@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattst123&hide=html&layout=compact&theme=buefy" />
+<a href="https://www.linkedin.com/in/matheus-figueiredo-lima/"><img src="https://github.com/mattst123/mattst123/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/matheus-figueiredo-lima/)
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattst123&theme=buefy"/> 
+<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattst123&hide=html&layout=compact&theme=buefy" />
+
+<td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattst123&theme=buefy"/> 
 <!--
 **Mattst123/mattst123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

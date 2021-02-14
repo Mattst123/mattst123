@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/matheus-figueiredo-lima/"><img src="https://github.com/mattst123/mattst123/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/matheus-figueiredo-lima/)
+<a href="https://www.linkedin.com/in/matheus-figueiredo-lima/"><img src="https://raw.githubusercontent.com/Mattst123/mattst123/master/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/matheus-figueiredo-lima/)
 
 <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattst123&hide=html&layout=compact&theme=buefy" />
 

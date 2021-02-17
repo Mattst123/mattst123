@@ -26,9 +26,11 @@ Contato :
 
 <a href="mflima1995@gmail.com"><img src="https://raw.githubusercontent.com/Mattst123/mattst123/master/envelope.png" width="16"></img></a> [Email](mailto:mflima1995@gmail.com)
 
-<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattst123&hide=html&layout=compact&theme=buefy" />
-
-<td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattst123&theme=buefy"/> 
+<table>
+<tr>
+<td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattst123&hide=html&layout=compact&theme=buefy" /></td>
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattst123&theme=buefy"/></td>
+</tr>
 <!--
 **Mattst123/mattst123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
